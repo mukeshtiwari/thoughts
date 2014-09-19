@@ -1,0 +1,2 @@
+Think about how to design Hardware language in Coq/Idris/Agda. Take the advantage of dependent
+type system. First part will specification and simulation and later on generating the VHDL or Verilog code.
