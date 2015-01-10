@@ -1,2 +1,9 @@
 Think about how to design Hardware language in Coq/Idris/Agda. Take the advantage of dependent
 type system. First part will specification and simulation and later on generating the VHDL or Verilog code.
+
+Survey software bugs and use static analysis to eliminate them. Some most common bugs are int overflow, off by one,
+stack overflow, buffer overflow. Their impact on economy from security point of view.
+
+Compiler optimization ( Replace a program fragment by another based on Denotational Semantic ).
+
+Design a Domain Specific language for Cryptography ( Think more about this ).
